@@ -3,4 +3,6 @@ This is my final project for "Algorithms for Datascience" class.
 
 Instructor: [Dr. Ali Katanforoush](http://facultymembers.sbu.ac.ir/katanforoush)
 
-Student: Mohammad Abbaspour (Student id at SBU: 400422225)
+Student: Mohammad Abbaspour
+
+Student id at SBU: 400422225
